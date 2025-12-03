@@ -1,6 +1,6 @@
 # LLM Edge Cloud
 
-This repository contains the code for deploying open-source LLM models locally as microservices using the `llama_cpp` library. The model must be downloaded beforehand via Hugging Face in the GGUF format. The recommended model for edge deployment is `gemma-2-2b-it-Q8_0.gguf`.
+This repository contains the code for deploying open-source LLM models locally as microservices using the `llama_cpp` library. The model must be downloaded beforehand via Hugging Face in the GGUF format. The recommended model for edge deployment is [`gemma-2-2b-it-Q8_0.gguf`](https://huggingface.co/bartowski/gemma-2-2b-it-GGUF).
 
 ## Setup Instructions
 
