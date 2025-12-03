@@ -11,7 +11,7 @@ This repository contains the code for deploying open-source LLM models locally a
 
 2. Run the server:
    ```bash
-   uvicorn server:app --host 0.0.0.0 --port 8000
+   uvicorn main:app --host 0.0.0.0 --port 8000
    ```
 
 3. Test the deployment from another terminal:
